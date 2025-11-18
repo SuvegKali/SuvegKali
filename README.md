@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuvegKali
 - 👀 I’m interested in Solving real world problems using the latest technology
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on a web dev project
+- 🌱 I’m currently learning Machine Learning
+
 
 
 <!---
