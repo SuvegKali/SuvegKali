@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuvegKali
-- 👀 I’m interested in Solving real world problems using the latest technology
+- 👀 I’m interested in Solving real world problems using latest technology
 - 🌱 I’m currently learning Machine Learning
 
 
